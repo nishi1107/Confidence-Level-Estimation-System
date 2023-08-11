@@ -1,5 +1,5 @@
 # Confidence-Level-Estimation-System
-Confidence Level Estimation System make use of AI to estimate the confidence level of a human by analyzing various parameters, the verbal and non-verbal cues that contribute some weightage while judging **human confidence**.
+Confidence Level Estimation System make use of AI to estimate the confidence level of a human by analyzing various parameters, that contribute some weightage while judging **human confidence**.
 The designed model considers 3 parameters:
 1. **Facial Expression**
 2. **Eye Movement**
